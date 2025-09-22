@@ -76,15 +76,8 @@ cv2.destroyAllWindows()
 #python -c "import cv2; print(cv2.__version__)"
 
 #python main.py
-
-
-
-
-
-
-
-
-
+#devanshi's work
+#Steps to create a GitHub repository and push the code:
 # git init
 #git add .
 #git commit -m "Initial commit"
